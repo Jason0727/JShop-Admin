@@ -21,7 +21,10 @@
         "topthink/think-captcha": "^2.0",
         "topthink/think-image": "^1.0",
         "topthink/think-helper": "^1.0",
-        "ezyang/htmlpurifier": "^4.9"
+        "ezyang/htmlpurifier": "^4.9",
+        "mtdowling/cron-expression": "^1.2",
+        "guzzlehttp/guzzle": "^6.5",
+        "topthink/think-migration": "2.0.*"
     },
     "autoload": {
         "psr-4": {
